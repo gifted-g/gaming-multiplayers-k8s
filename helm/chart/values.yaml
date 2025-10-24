@@ -1,0 +1,7 @@
+replicaCount: 2
+image:
+  repository: your-registry/game-server
+  tag: latest
+service:
+  type: ClusterIP
+  port: 3000

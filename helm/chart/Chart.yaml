@@ -1,0 +1,4 @@
+apiVersion: v2
+name: game-server
+description: A simple Helm chart for the demo game server
+version: 0.1.0
